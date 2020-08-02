@@ -14,7 +14,7 @@ In this project, we will apply machine learning and in particular Deep Learning 
 
 In this study, I will apply Convolutional Neural Network (CNN) and try to classify a patient as either having pneumonia or not having pneumonia. This problem lies in binary classification.
 
-Also, as we are concerned about the type of pneumonia as the patient either have Bacterial Pneumonia, Viral Pneumonia or no pneumonia. So, we will consider it as a 3 class clissification problem.
+(Also, as we are concerned about the type of pneumonia as the patient either have Bacterial Pneumonia, Viral Pneumonia or no pneumonia. So, we will consider it as a 3 class clissification problem.)
 
 Sample of X-ray : 
 
