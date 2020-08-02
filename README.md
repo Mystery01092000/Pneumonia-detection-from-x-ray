@@ -19,3 +19,19 @@ In this study, I will apply Convolutional Neural Network (CNN) and try to classi
 Sample of X-ray : 
 
 ![pneumonia](https://miro.medium.com/max/1400/1*t-_EXQ3tlb8KOx6H7HN09A.jpeg)
+
+
+# Data Description:
+The dataset used in the project and study is used from a Kaggle Dataset : Chest X-Ray Images (Pneumonia)
+The dataset can be downloaded from the :- [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia?)
+
+The data is in the form of images, and a total of 5,863 X-Ray images JPG are involved.
+These images are divided into 3 sections: Train , validation and test as follows : 
+
+![data](https://github.com/Mystery01092000/Pneumonia-detection-from-x-ray/blob/master/Images/DataFolder.png)
+
+### Data Distribution :
+  Train data : 5198 images
+  
+  Test and val : 
+  
