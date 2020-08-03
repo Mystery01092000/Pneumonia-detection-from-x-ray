@@ -74,3 +74,9 @@ The innovation of convolutional neural networks is the ability to automatically 
 
 ![FC](https://miro.medium.com/max/1400/1*kToStLowjokojIQ7pY2ynQ.jpeg)
 
+Adding a Fully-Connected layer is a (usually) cheap way of learning non-linear combinations of the high-level features as represented by the output of the convolutional layer. The Fully-Connected layer is learning a possibly non-linear function in that space.
+
+Now that we have converted our input image into a suitable form for our Multi-Level Perceptron, we shall flatten the image into a column vector. The flattened output is fed to a feed-forward neural network and backpropagation applied to every iteration of training. Over a series of epochs, the model is able to distinguish between dominating and certain low-level features in images and classify them using the sigmoid Classification technique.
+
+
+# Results 
